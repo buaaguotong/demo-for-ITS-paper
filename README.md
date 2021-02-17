@@ -1,5 +1,6 @@
 # demo-for-ITS-paper
 This demo is used for illustrating the computing procedure of DUACE model submitted for IEEE ITS.
+
 ##the input data is : 
 [[0.78637992 0.82812079]
  [0.11459974 0.61251262]
