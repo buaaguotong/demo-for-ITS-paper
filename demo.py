@@ -1,3 +1,4 @@
+# edit by guotong 2021-02-15
 import numpy as np
 import matplotlib.pyplot as plt
 class K_Means:
